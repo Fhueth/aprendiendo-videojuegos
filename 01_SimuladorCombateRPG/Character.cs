@@ -14,7 +14,5 @@ namespace _01_SimuladorCombateRPG
             this.name = name;
             this.statistics = statistics;
         }
-        
-
     }
 }
